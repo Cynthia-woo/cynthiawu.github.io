@@ -63,7 +63,7 @@
 - 二分法  -> 找到target再向两侧拓展找到不是target的
 - 左右分别采用二分法
 
-左端点
+// 左端点
 
         int findLeftBorder(int[] nums, int target) {
             int start = 0;
@@ -84,7 +84,7 @@
             return -1;
         }
 
-右端点
+// 右端点
 
         int findRightBorder(int[] nums, int target) {
             int start = 0;
@@ -106,7 +106,7 @@
             return -1;
         }
 
-调用方式
+// 调用方式
 
         public int[] searchRange(int[] nums, int target) {
             if (nums.length == 0) {return new int[]{-1,-1};}
@@ -130,15 +130,10 @@
 
 - 暴力解法：两个for循环
 - 单向指针
-- 双向指针 （number++; && ++number;）
+- 双向指针 （number++; && ++number;） 一个for循环
 <hr/>
 
-**LeetCode977: 有序数组的平方**
 
-[977. Squares of a Sorted Array](https://leetcode.cn/problems/squares-of-a-sorted-array/description/)
-
-- 暴力解法：Arrays.sort(arr);
-- 双指针法：创建新的array，比较大的从右往左填
 
 
 

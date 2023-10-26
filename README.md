@@ -1,4 +1,4 @@
-# Starting the leetcode on 10/24/2023
+# Starting the leetcode on 10/24/2023 PST
 
 <hr/>
 
@@ -9,6 +9,10 @@
 [每日精华](https://www.yuque.com/chengxuyuancarl/wnx1np/ktwax2)
 
 
-* 20231024
+* 20231025
 _[intro](https://docs.qq.com/doc/DUG9UR2ZUc3BjRUdY)_
-[Day01_Array_Part1](Day01_Array.md)
+[Day01_Array_Part01](Day01_Array_Part01.md)
+
+* 20231026
+_[intro](https://docs.qq.com/doc/DUGRwWXNOVEpyaVpG)_
+[Day02_Array_Part02](Day02_Array_Part02.md)
