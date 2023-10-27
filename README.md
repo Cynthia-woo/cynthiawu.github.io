@@ -8,7 +8,7 @@
 [博客以及打卡方式](https://docs.qq.com/doc/DUEdmb1JCaEtlZWFx)
 [每日精华](https://www.yuque.com/chengxuyuancarl/wnx1np/ktwax2)
 
-
+<h2>第一章 数组</h2>
 * 20231025
 _[intro](https://docs.qq.com/doc/DUG9UR2ZUc3BjRUdY)_
 [Day01_Array_Part01](Day01_Array_Part01.md)
@@ -16,3 +16,8 @@ _[intro](https://docs.qq.com/doc/DUG9UR2ZUc3BjRUdY)_
 * 20231026
 _[intro](https://docs.qq.com/doc/DUGRwWXNOVEpyaVpG)_
 [Day02_Array_Part02](Day02_Array_Part02.md)
+
+<h2>第二章 链表</h2>
+* 20231027
+  _[intro](https://docs.qq.com/doc/DUGdqYWNYeGhlaVR6)_
+  [Day03_ArrayList_Part01](Day03_ArrayList_Part01.md)
