@@ -12,12 +12,16 @@
 * 20231025
 _[intro](https://docs.qq.com/doc/DUG9UR2ZUc3BjRUdY)_
 [Day01_Array_Part01](Day01_Array_Part01.md)
-
+<br/>
 * 20231026
 _[intro](https://docs.qq.com/doc/DUGRwWXNOVEpyaVpG)_
 [Day02_Array_Part02](Day02_Array_Part02.md)
 
 <h2>第二章 链表</h2>
 * 20231027
-  _[intro](https://docs.qq.com/doc/DUGdqYWNYeGhlaVR6)_
-  [Day03_ArrayList_Part01](Day03_ArrayList_Part01.md)
+_[intro](https://docs.qq.com/doc/DUGdqYWNYeGhlaVR6)_
+[Day03_LinkedList_Part01](Day03_LinkedList_Part01.md)
+<br/>
+* 20231027
+_[intro](https://docs.qq.com/doc/DUFNjYUxYRHRVWklp)_
+[Day04_Linked_Part02](Day04_LinkedList_Part02.md)
