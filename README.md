@@ -29,3 +29,9 @@
 
 [intro](https://docs.qq.com/doc/DUFNjYUxYRHRVWklp)
 [Day04_Linked_Part02](Day04_LinkedList_Part02.md)
+
+<h2>第三章 哈希表</h2>
+* 20231030
+
+[intro](https://docs.qq.com/doc/DUEtFSGdreWRuR2p4)
+[Day05_HashMap_Part01](Day05_HashMap_Part01.md)
