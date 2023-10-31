@@ -23,3 +23,30 @@
 
 <hr/>
 
+**349. 两个数组的交集**
+
+[349. Intersection of Two Arrays](https://leetcode.cn/problems/intersection-of-two-arrays/description/)
+
+- hashSet: 遍历一个数组，变成hashSet，遍历另一个，看这个hashSet有没有相同元素，若有，则加入新的hashSet
+    hashSet转元素流再转int和转arr
+    新的arr加入元素
+- hash数组: 类似于242题，int[元素]++，再进行判断
+
+<hr/>
+
+**202. 欢乐数**
+
+[202. Happy Number](https://leetcode.cn/problems/happy-number/description/)
+
+- 使用hashSet可以避免重复，而且运用哈希表处理未知量数据比较迅速合理
+
+<hr/>
+
+**1 两数之和**
+
+[1. Two Sum](https://leetcode.cn/problems/two-sum/description/)
+
+- hashMap kay-value，注意快速遍历的元素和储存在value中的分别是什么
+
+<hr/>
+
