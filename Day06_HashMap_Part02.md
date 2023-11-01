@@ -10,7 +10,7 @@
 
 <hr/>
 
-**LeetCode第383. 赎金信**
+**LeetCode第383题. 赎金信**
 
 [454. 4Sum II](https://leetcode.cn/problems/4sum-ii/description/)
 
@@ -21,7 +21,7 @@
 
 <hr/>
 
-**LeetCode第15. 三数之和**
+**LeetCode第15题. 三数之和**
 
 [15. 3Sum](https://leetcode.cn/problems/3sum/submissions/479062207/)
 
@@ -32,7 +32,7 @@
 
 <hr/>
 
-**LeetCode第18. 四数之和**
+**LeetCode第18题. 四数之和**
 
 [18. 4Sum](https://leetcode.cn/problems/4sum/description/)
 

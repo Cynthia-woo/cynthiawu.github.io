@@ -14,7 +14,7 @@
 
 <hr/>
 
-**LeetCode242.有效的字母异位词**
+**LeetCode242题.有效的字母异位词**
 
 [242. Valid Anagram](https://leetcode.cn/problems/valid-anagram/)
 
@@ -23,7 +23,7 @@
 
 <hr/>
 
-**349. 两个数组的交集**
+**LeetCode第349题. 两个数组的交集**
 
 [349. Intersection of Two Arrays](https://leetcode.cn/problems/intersection-of-two-arrays/description/)
 
@@ -34,7 +34,7 @@
 
 <hr/>
 
-**202. 欢乐数**
+**LeetCode第202题. 欢乐数**
 
 [202. Happy Number](https://leetcode.cn/problems/happy-number/description/)
 
@@ -42,7 +42,7 @@
 
 <hr/>
 
-**1 两数之和**
+**LeetCode第1题. 两数之和**
 
 [1. Two Sum](https://leetcode.cn/problems/two-sum/description/)
 

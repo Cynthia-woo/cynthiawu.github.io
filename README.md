@@ -25,8 +25,8 @@
 
 [intro](https://docs.qq.com/doc/DUGdqYWNYeGhlaVR6)
 [Day03_LinkedList_Part01](Day03_LinkedList_Part01.md)
-<br/>
 
+<br/>
 * 20231028
 
 [intro](https://docs.qq.com/doc/DUFNjYUxYRHRVWklp)
@@ -37,9 +37,17 @@
 
 [intro](https://docs.qq.com/doc/DUEtFSGdreWRuR2p4)
 [Day05_HashMap_Part01](Day05_HashMap_Part01.md)
-<br/>
 
+<br/>
 * 20231031
 
 [intro](https://docs.qq.com/doc/DUElCb1NyTVpXa0Jj)
 [Day06_HashMap_Part02](Day06_HashMap_Part02.md)
+
+<h2>第四章 字符串</h2>
+* 20231101
+
+[intro](https://docs.qq.com/doc/DUGdsY2JFaFhDRVZH)
+[Day07_String_Part01](Day07_String_Part01.md)
+
+<br/>
