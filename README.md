@@ -15,8 +15,6 @@
 [intro](https://docs.qq.com/doc/DUG9UR2ZUc3BjRUdY)
 [Day01_Array_Part01](Day01_Array_Part01.md)
 
-<br/>
-
 * 20231026
 
 [intro](https://docs.qq.com/doc/DUGRwWXNOVEpyaVpG)
@@ -28,8 +26,6 @@
 
 [intro](https://docs.qq.com/doc/DUGdqYWNYeGhlaVR6)
 [Day03_LinkedList_Part01](Day03_LinkedList_Part01.md)
-
-<br/>
 
 * 20231028
 
@@ -43,8 +39,6 @@
 [intro](https://docs.qq.com/doc/DUEtFSGdreWRuR2p4)
 [Day06_HashMap_Part01](Day06_HashMap_Part01.md)
 
-<br/>
-
 * 20231031
 
 [intro](https://docs.qq.com/doc/DUElCb1NyTVpXa0Jj)
@@ -56,8 +50,6 @@
 
 [intro](https://docs.qq.com/doc/DUGdsY2JFaFhDRVZH)
 [Day08_String_Part01](Day08_String_Part01.md)
-
-<br/>
 
 * 20231102
 
@@ -71,14 +63,10 @@
 [intro](https://docs.qq.com/doc/DUElqeHh3cndDbW1Q)
 [Day10_StackQueue_Part01](Day10_StackQueue_Part01.md)
 
-<br/>
-
 * 20231103
 
 [intro](https://docs.qq.com/doc/DUHh6UE5hUUZOZUd0)
 [Day11_StackQueue_Part02](Day11_StackQueue_Part02.md)
-
-<br/>
 
 * 20231105
 
@@ -92,11 +80,7 @@
 [intro](https://docs.qq.com/doc/DUHRtdXZZSWFkeGdE)
 [Day14_BinaryTree_Part01](Day14_BinaryTree_Part01.md)
 
-<br/>
-
 * 20231107
 
 [intro](https://docs.qq.com/doc/DUHN0ZVJuRmVYeWNv)
 [Day15_BinaryTree_Part02](Day15_BinaryTree_Part02.md)
-
-<br/>
