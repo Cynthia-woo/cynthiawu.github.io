@@ -1,7 +1,7 @@
 ## **代码随想录算法训练营第十三天| 239. 滑动窗口最大值, 347.前 K 个高频元素, 总结**
 <hr/>
 
-**LeetCode 239. 滑动窗口最大值**
+**LeetCode239. 滑动窗口最大值**
 
 [239. Sliding Window Maximum](https://leetcode.cn/problems/sliding-window-maximum/description/)
 
@@ -9,7 +9,7 @@
 
 <hr/>
 
-**LeetCode 347. 前 K 个高频元素**
+**LeetCode347. 前 K 个高频元素**
 
 [347. Top K Frequent Elements](https://leetcode.cn/problems/top-k-frequent-elements/description/)
 
