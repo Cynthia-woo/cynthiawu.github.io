@@ -22,7 +22,10 @@
 
 [450. Delete Node in a BST](https://leetcode.cn/problems/delete-node-in-a-bst/description/)
 
-- 迭代法/递归法，判断val与左右子树之间的关系
-- 判断叶子节点`while(curr.val == val)` `if (curr.val == null)`
+- 迭代法/递归法，需要考虑删除的各种情况
+- 1.叶子节点，左右节点都为空
+- 2.左不空右空
+- 3.左空右不空
+- 4.左不空右不空 -> 需要到迭代到叶子节点再赋值
 
 <hr/>
