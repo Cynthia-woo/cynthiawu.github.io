@@ -132,3 +132,7 @@
 [intro](https://docs.qq.com/doc/DUExTYXVzU1BiU2Zl)
 [Day25_BackTrack_Part02](Day25_BackTrack_Part02.md)
 
+* 20231119
+
+[intro](https://docs.qq.com/doc/DUElpbnNUR3hIbXlY)
+[Day27_BackTrack_Part03](Day27_BackTrack_Part03.md)
