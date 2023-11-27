@@ -151,3 +151,10 @@
 
 [intro](https://docs.qq.com/doc/DUEdTVVhxbnJiY3BR?u=a46e02682f01498599d3897676b00ad1)
 [Day30_BackTrack_Part06](Day30_BackTrack_Part06.md)
+
+<h2>第八章 贪心算法</h2>
+
+* 20231123
+
+[intro](https://docs.qq.com/doc/DUG1PQ1ZZY2xXY1ly?&u=a46e02682f01498599d3897676b00ad1)
+[Day31_GreedyAlgorithm_Part01](Day31_GreedyAlgorithm_Part01.md)
