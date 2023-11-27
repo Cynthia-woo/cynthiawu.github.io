@@ -158,3 +158,8 @@
 
 [intro](https://docs.qq.com/doc/DUG1PQ1ZZY2xXY1ly?&u=a46e02682f01498599d3897676b00ad1)
 [Day31_GreedyAlgorithm_Part01](Day31_GreedyAlgorithm_Part01.md)
+
+* 20231124
+
+[intro](https://docs.qq.com/doc/DUGFEdGFWeVhleFF1?u=a46e02682f01498599d3897676b00ad1)
+[Day32_GreedyAlgorithm_Part02](Day32_GreedyAlgorithm_Part02.md)
