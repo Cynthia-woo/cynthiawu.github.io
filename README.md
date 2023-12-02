@@ -174,9 +174,13 @@
 [intro](https://docs.qq.com/doc/DUFRWc3BGRHFXZ1pO)
 [Day35_GreedyAlgorithm_Part04](Day35_GreedyAlgorithm_Part04.md)
 
-
 * 20231128
 
 [intro](https://docs.qq.com/doc/DUERGbnhhRkFRVENZ)
 [Day36_GreedyAlgorithm_Part05](Day36_GreedyAlgorithm_Part05.md)
+
+* 20231129
+
+[intro](https://docs.qq.com/doc/DUFVRd3p5SHFMSExQ)
+[Day37_GreedyAlgorithm_Part06](Day37_GreedyAlgorithm_Part06.md)
 
