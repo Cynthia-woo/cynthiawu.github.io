@@ -184,3 +184,9 @@
 [intro](https://docs.qq.com/doc/DUFVRd3p5SHFMSExQ)
 [Day37_GreedyAlgorithm_Part06](Day37_GreedyAlgorithm_Part06.md)
 
+* 20231130
+
+[intro](https://docs.qq.com/doc/DUGNUdVpoT0VJR01l)
+[Day38_DynamicProgramming_Part01](Day38_DynamicProgramming_Part01.md)
+
+
