@@ -189,4 +189,8 @@
 [intro](https://docs.qq.com/doc/DUGNUdVpoT0VJR01l)
 [Day38_DynamicProgramming_Part01](Day38_DynamicProgramming_Part01.md)
 
+* 20231201
+
+[intro](https://docs.qq.com/doc/DUE55cVJ5WkNoREhS)
+[Day39_DynamicProgramming_Part02](Day39_DynamicProgramming_Part02.md)
 

@@ -33,4 +33,4 @@
 
 [70. Climbing Stairs](https://leetcode.cn/problems/climbing-stairs/description/)
 
-- dp[i] -> 到达i位置的最小花费（分别考虑跳一步和跳两步，求最小值）
+- dp[i] -> 到达i位置的最小花费（分别考虑跳一步和跳两）
