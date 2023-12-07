@@ -184,6 +184,8 @@
 [intro](https://docs.qq.com/doc/DUFVRd3p5SHFMSExQ)
 [Day37_GreedyAlgorithm_Part06](Day37_GreedyAlgorithm_Part06.md)
 
+<h2>第九章 动态规划</h2>
+
 * 20231130
 
 [intro](https://docs.qq.com/doc/DUGNUdVpoT0VJR01l)
@@ -193,4 +195,12 @@
 
 [intro](https://docs.qq.com/doc/DUE55cVJ5WkNoREhS)
 [Day39_DynamicProgramming_Part02](Day39_DynamicProgramming_Part02.md)
+
+* 20231203
+
+[intro](https://docs.qq.com/doc/DUFhIUXRFYnVGUkFp)
+[Day41_DynamicProgramming_Part03](Day41_DynamicProgramming_Part03.md)
+
+
+
 
