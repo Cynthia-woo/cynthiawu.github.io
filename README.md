@@ -201,6 +201,11 @@
 [intro](https://docs.qq.com/doc/DUFhIUXRFYnVGUkFp)
 [Day41_DynamicProgramming_Part03](Day41_DynamicProgramming_Part03.md)
 
+* 20231204
+
+[intro](https://docs.qq.com/doc/DUGdkaEl5dFN1QnBl)
+[Day42_DynamicProgramming_Part04](Day42_DynamicProgramming_Part04.md)
+
 
 
 
