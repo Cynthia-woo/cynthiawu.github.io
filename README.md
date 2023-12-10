@@ -206,6 +206,12 @@
 [intro](https://docs.qq.com/doc/DUGdkaEl5dFN1QnBl)
 [Day42_DynamicProgramming_Part04](Day42_DynamicProgramming_Part04.md)
 
+* 20231205
+
+[intro](https://docs.qq.com/doc/DUEVMRHZOemN5S2Vm)
+[Day43_DynamicProgramming_Part05](Day43_DynamicProgramming_Part05.md)
+
+
 
 
 
