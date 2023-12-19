@@ -1,9 +1,9 @@
-## **代码随想录算法训练营第四十五天| 139.单词拆分, 关于多重背包，你该了解这些！, 背包问题总结篇！**
+## **代码随想录算法训练营第四十六天| 139.单词拆分, 关于多重背包，你该了解这些！, 背包问题总结篇！**
 <hr/>
 
 **LeetCode139.单词拆分**
 
-[139.单词拆分](https://leetcode.cn/problems/word-break/description/)
+[139. Word Break](https://leetcode.cn/problems/word-break/description/)
 
 - 回溯枚举法
 - 记录之前的子串能否被字典里的字符串组成
