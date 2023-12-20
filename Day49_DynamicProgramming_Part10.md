@@ -17,4 +17,4 @@
 [122. Best Time to Buy and Sell Stock II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/description/)
 
 - 类似于上一题，注意股票可以买卖多次，所以在判断持有的时候是累加状态
-- // 0表示持有，1表示卖出
+- 0表示持有，1表示卖出
