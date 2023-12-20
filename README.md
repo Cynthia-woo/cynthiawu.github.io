@@ -236,10 +236,15 @@
 [intro](https://docs.qq.com/doc/DUFhzV29ZSEtFVkto)
 [Day49_DynamicProgramming_Part10](Day49_DynamicProgramming_Part10.md)
 
-* 20231211
+* 20231212
 
 [intro](https://docs.qq.com/doc/DUEtsRGRXT2F2Y0FR)
 [Day50_DynamicProgramming_Part11](Day50_DynamicProgramming_Part11.md)
+
+* 20231213
+
+[intro](https://docs.qq.com/doc/DUGt6dWVUUFhHUlpH)
+[Day51_DynamicProgramming_Part12](Day51_DynamicProgramming_Part12.md)
 
 
 
