@@ -246,6 +246,10 @@
 [intro](https://docs.qq.com/doc/DUGt6dWVUUFhHUlpH)
 [Day51_DynamicProgramming_Part12](Day51_DynamicProgramming_Part12.md)
 
+* 20231214
+
+[intro](https://docs.qq.com/doc/DUFJzanBWVXNVWW1N)
+[Day52_DynamicProgramming_Part13](Day52_DynamicProgramming_Part13.md)
 
 
 
