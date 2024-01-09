@@ -254,18 +254,22 @@
 * 20231215
 
 [intro](https://docs.qq.com/doc/DUEVBcnBldHBKWk12)
-[Day53_DynamicProgramming_Part13](Day53_DynamicProgramming_Part14.md)
+[Day53_DynamicProgramming_Part14](Day53_DynamicProgramming_Part14.md)
 
 * 20231217
 
 [intro](https://docs.qq.com/doc/DUGtwYWlEZVZSVXdF)
-[Day55_DynamicProgramming_Part14](Day55_DynamicProgramming_Part15.md)
+[Day55_DynamicProgramming_Part15](Day55_DynamicProgramming_Part15.md)
 
 * 20231218
 
 [intro](https://docs.qq.com/doc/DUEdhTmx4SW9OcVJo?u=f816e01478534b13bdd7cc3388d045a9)
-[Day56_DynamicProgramming_Part15](Day56_DynamicProgramming_Part16.md)
+[Day56_DynamicProgramming_Part16](Day56_DynamicProgramming_Part16.md)
 
+* 20231219
+
+[intro](https://docs.qq.com/doc/DUHNxR2VUZURGb3NN?u=f816e01478534b13bdd7cc3388d045a9)
+[Day57_DynamicProgramming_Part17](Day57_DynamicProgramming_Part17.md)
 
 
 
